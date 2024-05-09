@@ -1,4 +1,4 @@
-## Lists Interface
+## Set Interface
 
 A interface `set` é uma coleção que não pode conter elementos duplicados. Ela representa o conceito matemático de um conjunto e é usada para representar conjuntos, como um baralho de cartas.
 A plataforma Java possui três implementações de `Set` de uso geral: `HashSet`, `TreeSet` e `LinkedHashSet`.
