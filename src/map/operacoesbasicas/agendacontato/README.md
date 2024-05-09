@@ -1,7 +1,7 @@
-## Operações Básicas com Set
+## Operações Básicas com Map
 
 Aula sobre Collections em Java, do curso Java Backend Santander 2024, pela DIO. 
-Neste tópico, abordando o item `Set`.
+Neste tópico, abordando o item `Map`.
 
 #### Proposta
 
